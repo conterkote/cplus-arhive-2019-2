@@ -1,0 +1,5 @@
+﻿  calculator.cpp
+C:\Users\Samsung\Desktop\vs\calculator\calculator.cpp(12,24): error C2065: nullprt: необъявленный идентификатор
+C:\Users\Samsung\Desktop\vs\calculator\calculator.cpp(13,26): error C2065: nullprt: необъявленный идентификатор
+C:\Users\Samsung\Desktop\vs\calculator\calculator.cpp(16,1): error C2760: синтаксическая ошибка: непредвиденный токен "}"; требуется "{"
+C:\Users\Samsung\Desktop\vs\calculator\calculator.cpp(17,1): fatal error C1004: непредвиденное обнаружение конца файла
